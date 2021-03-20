@@ -14,6 +14,7 @@
 		04E6562D2606094900DB090A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04E6562C2606094900DB090A /* Assets.xcassets */; };
 		04E656302606094900DB090A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04E6562E2606094900DB090A /* LaunchScreen.storyboard */; };
 		04E65639260613C600DB090A /* MapFeature.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E65638260613C600DB090A /* MapFeature.swift */; };
+		04E6563D260617AA00DB090A /* MapFeature2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E6563C260617AA00DB090A /* MapFeature2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		04E6562F2606094900DB090A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04E656312606094900DB090A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04E65638260613C600DB090A /* MapFeature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapFeature.swift; sourceTree = "<group>"; };
+		04E6563C260617AA00DB090A /* MapFeature2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapFeature2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				04E656252606094800DB090A /* SceneDelegate.swift */,
 				04E656272606094800DB090A /* ViewController.swift */,
 				04E65638260613C600DB090A /* MapFeature.swift */,
+				04E6563C260617AA00DB090A /* MapFeature2.swift */,
 				04E656292606094800DB090A /* Main.storyboard */,
 				04E6562C2606094900DB090A /* Assets.xcassets */,
 				04E6562E2606094900DB090A /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 				04E656282606094800DB090A /* ViewController.swift in Sources */,
 				04E65639260613C600DB090A /* MapFeature.swift in Sources */,
 				04E656242606094800DB090A /* AppDelegate.swift in Sources */,
+				04E6563D260617AA00DB090A /* MapFeature2.swift in Sources */,
 				04E656262606094800DB090A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

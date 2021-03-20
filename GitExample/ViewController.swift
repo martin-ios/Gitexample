@@ -15,6 +15,9 @@ class ViewController: UIViewController {
    
     let mapViewController = MapFeature()
         print(mapViewController)
+        let mapViewController2 = MapFeature2()
+        print(mapViewController2)
+        
     }
 
 
