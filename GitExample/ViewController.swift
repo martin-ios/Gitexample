@@ -25,7 +25,10 @@ class ViewController: UIViewController {
         print(mapViewController)
         let mapViewController2 = MapFeature2()
         print(mapViewController2)
-  
+        buttonsUno.layer.backgroundColor = UIColor.black.cgColor
+        buttonDos.layer.backgroundColor = UIColor.blue.cgColor
+        buttonsTres.layer.backgroundColor = UIColor.yellow.cgColor
+        
         
         
     }
